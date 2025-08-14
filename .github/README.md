@@ -1,4 +1,4 @@
-# Copilot Instructions for `arduclock`
+# Instructions for `arduclock`
 
 ## Project Overview
 This repository contains Arduino-based GPS clock projects with 7-segment displays. There are three main variants:
